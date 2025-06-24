@@ -40,5 +40,5 @@ async def check(ctx):
         await ctx.send("❌ No hay archivo adjunto.")
 
 #Correr    
-token = 'MTMyNjMzMjgyNjk5NTY1ODc3Mg.GttFla.vl-tPRw-YL8TS-beb-E_3ZZw_L2B7olO0k3AAE'
+token = '' #Ingresa tu token entre las comillas.
 bot.run(token)
