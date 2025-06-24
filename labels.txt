@@ -1,0 +1,10 @@
+0 Pastor Alemán
+1 Golden Retriever
+2 Bulldog
+3 Poodle
+4 Beagle
+5 Yorkshire Terrier
+6 Chihuahua
+7 Husky Siberiano
+8 Rottweiler
+9 Dálmata
